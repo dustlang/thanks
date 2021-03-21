@@ -5,7 +5,7 @@
 [status-img]: https://travis-ci.com/rust-lang/thanks.svg?branch=master
 [status]: https://travis-ci.com/rust-lang/thanks
 
-This is a static site generator showing people who have contributed to Rust.
+This is a static site generator showing people who have contributed to Dust.
 
 To run thanks, you'll need stable Rust.
 
